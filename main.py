@@ -1,7 +1,7 @@
 #!/usr/bin/env python3  #告诉Linux/OS X系统，这是一个Python可执行程序，Windows系统会忽略这个注释
 # -*- coding: utf-8 -*-  #告诉Python解释器，按照UTF-8编码读取源代码
 
-from IDBM import CusService
+from Functions import CusService
 import numpy as np
 
 #IO测试
